@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-	<img style="border-radius : 35px;"  src="assets/video.gif" width="400">
+	<img style="border-radius : 65px;"  src="assets/video.gif" width="400">
 	
 </p>
 
@@ -16,44 +16,34 @@
 
 ## Screenshots
 
-<div style="display:flex; flex-wrap:wrap; justify-content:center; align-items : center">
-<!-- <h3>SignUp</h3> -->
-<img style="border-radius : 15px; margin:15px"
+<img style="border-radius : 15px ; margin:15px"
 		width="210"
 		alt="Capture 2"
 		src="assets/SignUp.png">
-<!-- <h3>Login</h3> -->
-<img style="border-radius : 15px ;margin:15px"
+<img style="border-radius : 15px ; margin:15px"
 		width="210"
 		alt="Capture 1"
 		src="assets/LoginAdress.png">
-		
-<!-- <h3>Home</h3> -->
-<img style="border-radius : 15px ;margin:15px"
+<img style="border-radius : 15px ; margin:15px"
 		width="210"
 		alt="Capture 1"
 		src="assets/Home.png">
-<!-- <h3>Room details</h3> -->
 <img style="border-radius : 15px ; margin:15px"
 		width="210"
 		alt="Capture 1"
 		src="assets/Room.png">
-<!-- <h3>Around Me | Geolocation | Request authorization </h3> -->
 <img style="border-radius : 15px ; margin:15px"
 		width="210"
 		alt="Capture 1"
 		src="assets/AroundMeAuthorization.png">
-<!-- <h3>My Profil</h3> -->
 <img style="border-radius : 15px ; margin:15px"
 		width="210"
 		alt="Capture 1"
 		src="assets/MyProfil.png">
-<!-- <h3>My Profil | Camera | Access required </h3> -->
 <img style="border-radius : 15px ; margin:15px"
 		width="210"
 		alt="Capture 1"
 		src="assets/MyCamera.png">
-</div>
 
 ## Packages
 
