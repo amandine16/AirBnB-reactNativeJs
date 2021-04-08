@@ -17,6 +17,7 @@
 ## Screenshots
 
 <h3>Login / SignUp</h3>
+<div>
 <img style="border-radius : 15px ; margin:15px"
 		width="150"
 		alt="Capture 2"
@@ -25,7 +26,8 @@
 		width="150"
 		alt="Capture 1"
 		src="assets/LoginAdress.png">
-		<br/>
+</div>
+<br/>
 		<h3>Home / Room </h3>
 <img style="border-radius : 15px ; margin:15px"
 		width="150"
