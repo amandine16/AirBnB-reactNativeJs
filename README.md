@@ -17,28 +17,22 @@
 ## Screenshots
 
 <div align="center">
-
 <img 
 		width="100%"
 		alt="Capture 1"
 		src="assets/preview/1.png">
-<br/>
 <img 
 		width="100%"
 		alt="Capture 1"
 		src="assets/preview/2.png">
-<br/>
 <img 
 		width="100%"
 		alt="Capture 1"
 		src="assets/preview/3.png">
-
-<br/>
 <img 
 		width="100%"
 		alt="Capture 1"
 		src="assets/preview/4.png">
-<br/>
 </div>
 
 ## Packages
