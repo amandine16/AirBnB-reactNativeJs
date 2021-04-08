@@ -16,47 +16,22 @@
 
 ## Screenshots
 
-<h3>Login / SignUp</h3>
-<div>
-<img style="border-radius : 15px ; margin:15px"
-		width="150"
-		alt="Capture 2"
-		src="assets/SignUp.png">
-<img style="border-radius : 15px ; margin:15px"
-		width="150"
+<div align="center">
+
+<img 
+		width="100%"
 		alt="Capture 1"
-		src="assets/LoginAdress.png">
+		src="assets/preview/Map.png">
+
+<br/>
+<img 
+		width="100%"
+		alt="Capture 1"
+		src="assets/preview/Map.png">
+
+<br/>
 </div>
-<br/>
-		<h3>Home / Room </h3>
-<img style="border-radius : 15px ; margin:15px"
-		width="150"
-		alt="Capture 1"
-		src="assets/Home.png">
-<img style="border-radius : 15px ; margin:15px"
-		width="150"
-		alt="Capture 1"
-		src="assets/Room.png">
-		<br/>
-		<h3>Around Me</h3>
-<img style="border-radius : 15px ; margin:15px"
-		width="150"
-		alt="Capture 1"
-		src="assets/AroundMeAuthorization.png">
-<img style="border-radius : 15px ; margin:15px"
-		width="150"
-		alt="Capture 1"
-		src="assets/AroundMe.png">
-<br/>
-		<h3>My Profil</h3>
-<img style="border-radius : 15px ; margin:15px"
-		width="150"
-		alt="Capture 1"
-		src="assets/MyProfil.png">
-<img style="border-radius : 15px ; margin:15px"
-		width="150"
-		alt="Capture 1"
-		src="assets/MyCamera.png">
+
 
 ## Packages
 
